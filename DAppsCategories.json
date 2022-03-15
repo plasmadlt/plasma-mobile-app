@@ -1,0 +1,83 @@
+{ 
+    "news": [ 
+        {
+            "id": "182",
+            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/2b52e4a6dc9f98f5ebac0d8553d8506d4caab3d7/img/cover/lido-cover.png"
+        },
+        {  
+            "id": "1542",
+            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/img/cover/rarible-cover.png"
+        },
+        { 
+            "id": "177",
+            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/img/cover/defisaver-cover.png"
+        }
+    ], 
+    "top3Categories": [
+        {
+            "name": "Services", 
+            "displayName": "Noncustodial DeFi Services",
+            "ids": [ "120", "177", "229" ]      
+        },
+        {
+            "name": "Messenger", 
+            "displayName": "On-chain Messenger",
+            "ids": [ "1545" ]      
+        },
+        {
+            "name": "Lending", 
+            "displayName": "Lending | DeFi",
+            "ids": [ "111", "114", "212" ]
+        },
+        {
+            "name": "Yield Aggregator", 
+            "displayName": "Yield Aggregator | DeFi",
+            "ids": [ "112", "113", "160" ]      
+        },
+        {
+            "name": "Liquid Staking", 
+            "displayName": "Savings | DeFi",
+            "ids": [ "182", "278", "275" ]       
+        },
+        {
+            "name": "Launchpad", 
+            "displayName": "IDO Launchpads",
+            "ids": [ "1078", "379", "1539", "1540" ]     
+        },
+        {
+            "name": "NFT", 
+            "displayName": "NFT Marketplaces",
+            "ids": [ "1541", "1542", "1229" ]      
+        },
+        {
+            "name": "Gaming", 
+            "displayName": "Metaverse | GameFi",
+            "ids": [ "1543", "673", "1065" ]      
+        },
+        {
+            "name": "Options", 
+            "displayName": "Options | DeFi",
+            "ids": [ "285", "128", "281" ]      
+        },
+        {
+            "name": "CDP", 
+            "displayName": "Collateralized Debt Position",
+            "ids": [ "118", "125", "347" ]     
+        },
+        {
+            "name": "Derivatives", 
+            "displayName": "Derivatives | DeFi",
+            "ids": [ "115", "144", "260" ]     
+        },
+        {
+            "name": "Privacy", 
+            "displayName": "Privacy",
+            "ids": [ "148", "1016", "1544" ]      
+        },
+        {
+            "name": "Bridge", 
+            "displayName": "Cross-Chain Bridge",
+            "ids": [ "117", "591", "252" ]      
+        }
+    ]
+}
