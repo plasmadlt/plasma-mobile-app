@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Bankless",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/bankless.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAl9Ld79qaZxp9JzEOwd3aA",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://newsletter.banklesshq.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Whitepaper",
+        "url": "https://www.facebook.com/banklesshq"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/BanklessHQ"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://medium.com/bankless-dao"
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCAl9Ld79qaZxp9JzEOwd3aA"
+      }
+    ]
+  },
+  {
+    "title": "a16z Crypto",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/a16z.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9cn0TuPq4dnbTY-CBsm8XA",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://a16z.com/category/blockchain-cryptocurrencies/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Whitepaper",
+        "url": "https://www.facebook.com/andreessenhorowitz"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/a16z"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UC9cn0TuPq4dnbTY-CBsm8XA"
+      }
+    ]
+  }
+]
