@@ -12,7 +12,7 @@
       },
       {
         "icon": "facebook",
-        "name": "Whitepaper",
+        "name": "Facebook",
         "url": "https://www.facebook.com/banklesshq"
       },
       {
@@ -38,6 +38,994 @@
     ]
   },
   {
+    "title": "Whiteboard Crypto",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Whiteboard.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsYYksPHiGqXHPoHI-fm5sg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://whiteboardcrypto.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://web.facebook.com/whiteboardcrypto"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/WhiteboardCryp1?s=20&t=ehr3dd07CiFk8Np8fJtV-g"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/WhiteboardCrypto"
+      }
+    ]
+  },
+  {
+    "title": "Chico Crypto",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/chico.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHop-jpf-huVT1IYw79ymPw",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://web.facebook.com/chicocrypto"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/LeaksBlockchain"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/ChicoCrypto/"
+      }
+    ]
+  },
+  {
+    "title": "Alex Becker's Channel",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/alex.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKQvGU-qtjEthINeViNbn6A",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://alexbecker.org/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/ZssBecker"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCKQvGU-qtjEthINeViNbn6A"
+      }
+    ]
+  },
+  {
+    "title": "DeFi, NFT & Web3 Insights - The Defiant",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Defiant.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL0J4MLEdLP0-UyLu0hCktg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://thedefiant.io/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/DefiantNews"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCL0J4MLEdLP0-UyLu0hCktg"
+      }
+    ]
+  },
+  {
+    "title": "Coin Bureau",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CoinBureau.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.coinbureau.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/coinsbureau"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/cbinsider"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/coinbureau"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/CoinBureau"
+      }
+    ]
+  },
+  {
+    "title": "Justin Bram",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Justin.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM7ppuKNvT47DfbYEZv2eZA",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/JustinCBram/"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://medium.com/@justin.bram"
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCM7ppuKNvT47DfbYEZv2eZA"
+      }
+    ]
+  },
+  {
+    "title": "DeFi Trader",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/defitrader.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGJh4PWRxneuaTLHycwfkaw",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://defitrader.academy/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/defitrading"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/traderdefi"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCGJh4PWRxneuaTLHycwfkaw"
+      }
+    ]
+  },
+  {
+    "title": "Jesse Eckel",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/JesseEckel.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPFMk8WxX3SJKy1jh61xxGw",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/Jesseeckel"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/jesseeckel2"
+      }
+    ]
+  },
+  {
+    "title": "EatTheBlocks",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/EatTheBlocks.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZM8XQjNOyG2ElPpEUtNasA",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://eattheblocks.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/groups/222716919099261"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/EatTheBlocks"
+      }
+    ]
+  },
+  {
+    "title": "Taiki Maeda",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Taiki.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7B3Y1yrg4S7mmgoR-NsfxA",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/TaikiMaeda2"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/user/TheTaikster"
+      }
+    ]
+  },
+  {
+    "title": "Altcoin Buzz",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Altcoin.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGyqEtcGQQtXyUwvcy7Gmyg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.altcoinbuzz.io/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://web.facebook.com/altcoinbuzzio"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/AltcoinBuzzChat"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/altcoinbuzzio/"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/AltcoinBuzz"
+      }
+    ]
+  },
+  {
+    "title": "The Daily Gwei",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/TheDailyGwei.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvCp6vKY5jDr87htKH6hgDA",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://thedailygwei.substack.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/sassal0x"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/thedailygwei"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://thedailygwei.substack.com/"
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/TheDailyGwei"
+      }
+    ]
+  },
+  {
+    "title": "Brian Jung",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Brian.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQglaVhGOBI0BR5S6IJnQPg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.brianjung.co/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/brianjungy"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCQglaVhGOBI0BR5S6IJnQPg"
+      }
+    ]
+  },
+  {
+    "title": "CryptosRUs",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CryptosRUs.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI7M65p3A-D3P4v5qW8POxQ",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://cryptosrus.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/cryptosrus"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/cryptosrus"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/CryptosR_Us"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/CryptosRUs"
+      }
+    ]
+  },
+  {
+    "title": "Dapp University",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/DappUniversity.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCY0xL8V6NzzFcwzHCgB8orQ",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ"
+      }
+    ]
+  },
+  {
+    "title": "CoinDesk",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CoinDesk.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7TghOL755nBk7HelHoi9LQ",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.coindesk.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/coindesk"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/coindesk"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/Coindesk"
+      }
+    ]
+  },
+  {
+    "title": "CoinMarketCap",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CoinMarketCap.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnhdZlwVd6ocXGhdSyV9Axg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://coinmarketcap.com"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/CoinMarketCap"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/CoinMarketCapAnnouncements"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/CoinMarketCap"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/CoinMarketCapOfficial"
+      }
+    ]
+  },
+  {
+    "title": "Defi Donut",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/DefiDonut.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWQ3eDlwf3vxEuxzb5NcZXg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://letsdodefi.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/thekriskay"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/DefiDonut"
+      }
+    ]
+  },
+  {
+    "title": "Yahoo Finance",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/YahooFinance.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEAZeUIeJs0IjQiqTCdVSIg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://finance.yahoo.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/yahoofinance/"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/YahooFinance"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/YahooFinance"
+      }
+    ]
+  },
+  {
+    "title": "Bloomberg Quicktake",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/BloombergTV.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUMZ7gohGI9HcU9VNsr2FJQ",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.bloomberg.com/qt"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/bloombergbusiness/"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/business"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/BloombergTV"
+      }
+    ]
+  },
+  {
+    "title": "Bloomberg Markets and Finance",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/BloombergMarkets.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIALMKvObZNtJ6AmdCLP7Lg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "http://www.bloomberg.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg"
+      }
+    ]
+  },
+  {
+    "title": "Bloomberg Technology",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/BloombergTech.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrM7B7SL_g1edFOnmj-SDKg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.bloomberg.com/technology"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/BloombergTech"
+      }
+    ]
+  },
+  {
+    "title": "WIRED",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/WIRED.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCftwRNsjfRo08xYE31tkiyw",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.wired.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/wired"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/WIRED"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/WIRED"
+      }
+    ]
+  },
+  {
+    "title": "ETHDenver",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/ETHDenver.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgz9NU06t_FkT0Py1Vadczw",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.ethdenver.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/ETHDenver"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/EthereumDenver"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://medium.com/ethdenver"
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/ETHDenver"
+      }
+    ]
+  },
+  {
+    "title": "Ethereum Foundation",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/EthereumFoundation.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNOfzGXD_C9YMYmnefmPH0g",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://ethereum.foundation/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/ethereumproject"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/ethereum"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://blog.ethereum.org/"
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/EthereumFoundation"
+      }
+    ]
+  },
+  {
+    "title": "Cointelegraph",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Cointelegraph.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRqBu-grVX1p97WaX4d-OuQ",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://cointelegraph.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/Cointelegraph"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/cointelegraph_com"
+      }
+    ]
+  },
+  {
     "title": "a16z Crypto",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/a16z.jpeg",
     "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9cn0TuPq4dnbTY-CBsm8XA",
@@ -50,7 +1038,7 @@
       },
       {
         "icon": "facebook",
-        "name": "Whitepaper",
+        "name": "Facebook",
         "url": "https://www.facebook.com/andreessenhorowitz"
       },
       {
@@ -72,6 +1060,1450 @@
         "icon": "youtube",
         "name": "Youtube",
         "url": "https://www.youtube.com/channel/UC9cn0TuPq4dnbTY-CBsm8XA"
+      }
+    ]
+  },
+  {
+    "title": "Siraj Raval",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/siraj.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWN3xxRkmTPmbKwht9FuE5A",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://web.facebook.com/sirajology"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/sirajraval"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/SirajRaval"
+      }
+    ]
+  },
+  {
+    "title": "Selcoin",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Selcoin.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDmr51JwXxErCrTALTGokpQ",
+    "lang": "tr",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/Selcoin"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://youtube.com/c/Selcoin"
+      }
+    ]
+  },
+  {
+    "title": "Expert Para",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/ExpertPara.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyAzRGjI08oAS7OE5qFC1Dw",
+    "lang": "tr",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.expertpara.net/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/expert_para"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://youtube.com/c/ExpertPara"
+      }
+    ]
+  },
+  {
+    "title": "Kripto Sözlük",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Kripto.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5rV0QEGbv0Y-umDwshs_HA",
+    "lang": "tr",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.kriptosozluktv.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/KriptoSozlukTVPiyasaMuhabbeti"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/KriptoSozlukTV"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UC5rV0QEGbv0Y-umDwshs_HA"
+      }
+    ]
+  },
+  {
+    "title": "Bilgi Sahibisin",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/BilgiSahibisin.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjghwPA1eRmU1RT0blcXEug",
+    "lang": "tr",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.bilgisahibisin.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/bilgisahibisin"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/trader_samet"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://youtube.com/c/BilgiSahibisin"
+      }
+    ]
+  },
+  {
+    "title": "MuratHan IQ",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/MURAT.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWsmkHei-e6hFYv8RgMfzRw",
+    "lang": "tr",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://youtube.com/c/MORMO"
+      }
+    ]
+  },
+  {
+    "title": "Incrypted",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Incrypted.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvZLuvjw2NsGY5y1EtpR4aw",
+    "lang": "ru",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://incrypted.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/incrypted/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/incrypted"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/Incryptednet"
+      }
+    ]
+  },
+  {
+    "title": "Forklog",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/forklog.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC9FnXTC8_ENzaNSO5cHQ6g",
+    "lang": "ru",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://forklog.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://web.facebook.com/forklog"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/forkshow"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/ForkLog"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/forklog"
+      }
+    ]
+  },
+  {
+    "title": "CRYPTUS",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CRYPTUS.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGzOtu1tlrOeq_-jXzV-Fng",
+    "lang": "ru",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/CRYPTUS_CHAT"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/CryptusTeam"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://zen.yandex.ru/id/60fad6608801d402a3949791"
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/CRYPTUSMEDIA"
+      }
+    ]
+  },
+  {
+    "title": "Blondy Chain - ICO, IDO и немного крипты",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/BLONDYCHAIN.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UClZT8YEwXXCRr-zzgTnyvgw",
+    "lang": "ru",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/blondychain_announce"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/blondy_chain"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/BLONDYCHAIN"
+      }
+    ]
+  },
+  {
+    "title": "Gennady M",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/GennadyM.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjZlOrmC7hi_1kMA6BKZXeQ",
+    "lang": "ru",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/gen_m"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/gennady___m"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/GennadyM"
+      }
+    ]
+  },
+  {
+    "title": "Coin Post",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CoinPost.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdSa35z0ZFiQQnhD1bFzgXQ",
+    "lang": "ru",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://coinpost.ru/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/Coin_Post"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/CoinPost/"
+      }
+    ]
+  },
+  {
+    "title": "Coin Metrika",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CoinMetrika.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfIdQezNLmzjw8YCpneON6w",
+    "lang": "ru",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/coinmetrika"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCfIdQezNLmzjw8YCpneON6w"
+      }
+    ]
+  },
+  {
+    "title": "Dacle",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Dacle.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnTZT0MkNOi6RUkCRMSXDjQ",
+    "lang": "ko",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCnTZT0MkNOi6RUkCRMSXDjQ"
+      }
+    ]
+  },
+  {
+    "title": "신의두뇌-비트코인 경제TV",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/ktv.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7FDmFL-7iJJRxG4BUKnN9Q",
+    "lang": "ko",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UC7FDmFL-7iJJRxG4BUKnN9Q"
+      }
+    ]
+  },
+  {
+    "title": "식스동코인바로알기",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/sixdong.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKCIbXHYM2HUc-7LWr3AbA",
+    "lang": "ko",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://blog.naver.com/up-dongyoung"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/coinbaro_sixdong"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCKKCIbXHYM2HUc-7LWr3AbA"
+      }
+    ]
+  },
+  {
+    "title": "비트코인 YES MEN",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/YESMEN.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsrenJyjKnZDHnuNpQLgPUA",
+    "lang": "ko",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://blog.naver.com/winnerd700"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/YYES_MEN"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCsrenJyjKnZDHnuNpQLgPUA"
+      }
+    ]
+  },
+  {
+    "title": "코인버핏(CoinBuffett)",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CoinBuffett.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8DIELocLFbHERA6Np2cxfg",
+    "lang": "ko",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UC8DIELocLFbHERA6Np2cxfg"
+      }
+    ]
+  },
+  {
+    "title": "비트티비bittv",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/bittv.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtG8tkXbSiwBTLzW55FaCsw",
+    "lang": "ko",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCtG8tkXbSiwBTLzW55FaCsw"
+      }
+    ]
+  },
+  {
+    "title": "Crypto India | क्रिप्टो इंडिया",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/cryptoindia.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCei4XXULXDpbhJIpevHZbqA",
+    "lang": "hi",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://web.facebook.com/cryptoindiaa/"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://telegram.me/OfficialCryptoIndia"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/CryptooIndia"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/cryptoindia"
+      }
+    ]
+  },
+  {
+    "title": "Bitcoin Expert India",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/BitcoinExpertIndiaa.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCr8uEbKAxiX0dVDejI0nufw",
+    "lang": "hi",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.bei24.com"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/bitcoinexpertindia"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/bitcoinexpertindia"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/Btcexpertindia"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/BitcoinExpertIndiaa"
+      }
+    ]
+  },
+  {
+    "title": "Crypto Point Hindi - हिंदी",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CryptoPointHindi.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsPppkSLFojvQoSSFh2PIWA",
+    "lang": "hi",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://www.cryptopointhindi.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/s/CryptoPointHi"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/CryptoPointHi"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/CryptoPointHindi"
+      }
+    ]
+  },
+  {
+    "title": "Pushpendra Singh Digital",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/PUSHPENDRASINGHDIGITAL.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0iDL9CSqHtlzJDZLGKJX0Q",
+    "lang": "hi",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://web.facebook.com/Pushpendrasinghofficial/"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/PushpendraKum"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/PUSHPENDRASINGHDIGITAL"
+      }
+    ]
+  },
+  {
+    "title": "Healthy Pockets",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/HealthyPockets.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7rmCjnXx6JNr_Rm4n37cFA",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/healthy_pockets"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UC7rmCjnXx6JNr_Rm4n37cFA"
+      }
+    ]
+  },
+  {
+    "title": "David Battaglia",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/DineroDigital.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRL3JcKAZLNbqDx1qrYGZdw",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://bloctrends.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/DBATTAGLIAYtube"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCRL3JcKAZLNbqDx1qrYGZdw"
+      }
+    ]
+  },
+  {
+    "title": "MAD CRIPTO MX",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/MADCRIPTOMX.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwtbSkX3SYu7sZ8u7BNWAZA",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/madcriptomx"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/mattunchi"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/MADCRIPTOMX"
+      }
+    ]
+  },
+  {
+    "title": "Bolsa para principiantes",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Bolsaparaprincipiantes.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzuUopbwNh8Sl5OcYsVgRjw",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/bolsa.para.principiantes/"
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/aprender_bolsa"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/Bolsaparaprincipiantes"
+      }
+    ]
+  },
+  {
+    "title": "Finanzas Descentralizadas",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Finanzas.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiB5RfuCykyWvLfZlnauQCQ",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/cryptocurrencydecrypted"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/Nancripto"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/FinanzasDescentralizadas"
+      }
+    ]
+  },
+  {
+    "title": "7 INGRESOS",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/INGRESOS.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeRbyXE_tHQMA5t0Vfm7-Yg",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/joinchat/Me8yPBpO1vNY-HsZrucVEg"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/7INGRESOS"
+      }
+    ]
+  },
+  {
+    "title": "Camino Financiero - Finanzas Personales",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Camino.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5asYuXsq1NSsbuufh0u0rQ",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://caminofinanciero.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/CaminoFinancieroFinanzasPersonales"
+      }
+    ]
+  },
+  {
+    "title": "Centro Cripto",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CentroCripto.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAafC5krTVc3Vwmyiel9eqQ",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/centrocriptocanal"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/centrocripto"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/CentroCripto"
+      }
+    ]
+  },
+  {
+    "title": "CryptoYoda",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CryptoYoda.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3H9weNMEfYJQKnkc_9W2Yg",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/CryptoYodaGuru"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UC3H9weNMEfYJQKnkc_9W2Yg"
+      }
+    ]
+  },
+  {
+    "title": "The Crypto Gateway - Investire in Criptovalute",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Criptovalute.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9X2f4pVXSNzsJ2c6ZQVqBQ",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://thecryptogateway.it/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/TheCryptoGateway"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/crypto_gateway"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/TheCryptoGatewayInvestireinCriptovaluteOfficial"
+      }
+    ]
+  },
+  {
+    "title": "Value Index",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/ValueIndex.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCazZozymAFpyrVHiZreOJOA",
+    "lang": "es",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://telegram.me/comunidadvalue"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/indexjorge"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/ValueIndex"
+      }
+    ]
+  },
+  {
+    "title": "COIN CATSチャンネル",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/COINCATS.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbMypC19BkBusvsLbf8dAkQ",
+    "lang": "ja",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://coincats-salon.com/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/coin_cats"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCbMypC19BkBusvsLbf8dAkQ"
+      }
+    ]
+  },
+  {
+    "title": "仮想通貨チャンネル - Joe Takayama",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/JoeTakayama.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UChHDspjk1RSMWXe36OyV5rg",
+    "lang": "ja",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/TakayamaJoe"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": "https://note.com/joetakayama/"
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UChHDspjk1RSMWXe36OyV5rg"
+      }
+    ]
+  },
+  {
+    "title": "Coin Club Japan",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CoinClubJapan.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWhemq3KH46mgbPfUOg4Brg",
+    "lang": "ja",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/coinclubjapan"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCWhemq3KH46mgbPfUOg4Brg"
+      }
+    ]
+  },
+  {
+    "title": "政岡吉宗",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/masaoka_yoshimune.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSgJA3Geo4kLRpIYNEHQZbQ",
+    "lang": "ja",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/masaoka_yoshimune"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/cryptomasaoka"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCSgJA3Geo4kLRpIYNEHQZbQ"
       }
     ]
   }
