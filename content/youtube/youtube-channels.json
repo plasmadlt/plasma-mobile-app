@@ -38,6 +38,44 @@
     ]
   },
   {
+    "title": "DeFi, NFT & Web3 Insights - The Defiant",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Defiant.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL0J4MLEdLP0-UyLu0hCktg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": "https://thedefiant.io/"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/DefiantNews"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCL0J4MLEdLP0-UyLu0hCktg"
+      }
+    ]
+  },
+  {
     "title": "Whiteboard Crypto",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Whiteboard.jpeg",
     "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsYYksPHiGqXHPoHI-fm5sg",
@@ -148,44 +186,6 @@
         "icon": "youtube",
         "name": "Youtube",
         "url": "https://www.youtube.com/channel/UCKQvGU-qtjEthINeViNbn6A"
-      }
-    ]
-  },
-  {
-    "title": "DeFi, NFT & Web3 Insights - The Defiant",
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Defiant.jpeg",
-    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL0J4MLEdLP0-UyLu0hCktg",
-    "lang": "eng",
-    "links": [
-      {
-        "icon": "website",
-        "name": "Website",
-        "url": "https://thedefiant.io/"
-      },
-      {
-        "icon": "facebook",
-        "name": "Facebook",
-        "url": ""
-      },
-      {
-        "icon": "telegram",
-        "name": "Telegram",
-        "url": ""
-      },
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "url": "https://twitter.com/DefiantNews"
-      },
-      {
-        "icon": "medium",
-        "name": "Blog",
-        "url": ""
-      },
-      {
-        "icon": "youtube",
-        "name": "Youtube",
-        "url": "https://www.youtube.com/channel/UCL0J4MLEdLP0-UyLu0hCktg"
       }
     ]
   },
