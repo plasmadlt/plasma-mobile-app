@@ -1368,44 +1368,6 @@
     ]
   },
   {
-    "title": "CRYPTUS",
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CRYPTUS.jpeg",
-    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGzOtu1tlrOeq_-jXzV-Fng",
-    "lang": "ru",
-    "links": [
-      {
-        "icon": "website",
-        "name": "Website",
-        "url": ""
-      },
-      {
-        "icon": "facebook",
-        "name": "Facebook",
-        "url": ""
-      },
-      {
-        "icon": "telegram",
-        "name": "Telegram",
-        "url": "https://t.me/CRYPTUS_CHAT"
-      },
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "url": "https://twitter.com/CryptusTeam"
-      },
-      {
-        "icon": "medium",
-        "name": "Blog",
-        "url": "https://zen.yandex.ru/id/60fad6608801d402a3949791"
-      },
-      {
-        "icon": "youtube",
-        "name": "Youtube",
-        "url": "https://www.youtube.com/c/CRYPTUSMEDIA"
-      }
-    ]
-  },
-  {
     "title": "Blondy Chain - ICO, IDO и немного крипты",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/BLONDYCHAIN.jpeg",
     "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UClZT8YEwXXCRr-zzgTnyvgw",
