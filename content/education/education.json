@@ -3,25 +3,25 @@
         {
             "title": "Smart contracts",
             "shortDescription": "A non-technical introduction to smart contracts",
-            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/university/assets/dao-2.png",
+            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/assets/dao-2.png",
             "contentType": "markdown",
-            "content": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/university/articles/smart_contracts.md"
+            "content": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/articles/smart_contracts.md"
         }
     ],
     "defi": [
         {
             "title": "Decentralized finance (DeFi)",
             "shortDescription": "An overview of DeFi on Ethereum",
-            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/university/assets/defi-2.png",
+            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/assets/defi-2.png",
             "contentType": "markdown",
-            "content": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/university/articles/defi.md"
+            "content": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/articles/defi.md"
         },
         {
             "title": "Non-fungible tokens (NFT)",
             "shortDescription": "An overview of NFTs on Ethereum",
-            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/university/assets/infrastructure_transparent.png",
+            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/assets/infrastructure_transparent.png",
             "contentType": "markdown",
-            "content": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/university/articles/nft.md"
+            "content": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/articles/nft.md"
         }
     ]
 }
