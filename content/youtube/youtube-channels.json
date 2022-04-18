@@ -1102,6 +1102,44 @@
     ]
   },
   {
+    "title": "DeFi Dad",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/defidad.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCatItl6C7wJp9txFMbXbSTg",
+    "lang": "eng",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": "https://twitter.com/DeFi_Dad"
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/DeFiTutorialswithDeFiDad"
+      }
+    ]
+  },
+  {
     "title": "Selcoin",
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/Selcoin.jpeg",
     "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDmr51JwXxErCrTALTGokpQ",
@@ -1402,6 +1440,82 @@
         "icon": "youtube",
         "name": "Youtube",
         "url": "https://www.youtube.com/c/BLONDYCHAIN"
+      }
+    ]
+  },
+  {
+    "title": "CRYPTUS",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/cryptus.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGzOtu1tlrOeq_-jXzV-Fng",
+    "lang": "ru",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": "https://t.me/CRYPTUS_MEDIA"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/c/CRYPTUSMEDIA"
+      }
+    ]
+  },
+  {
+    "title": "CryptoInside",
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/youtube/logo/CryptoInside.jpeg",
+    "rssURI": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFVfB8FCB70Fqd_Dmo8Q08g",
+    "lang": "ru",
+    "links": [
+      {
+        "icon": "website",
+        "name": "Website",
+        "url": ""
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "url": ""
+      },
+      {
+        "icon": "telegram",
+        "name": "Telegram",
+        "url": ""
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "url": ""
+      },
+      {
+        "icon": "medium",
+        "name": "Blog",
+        "url": ""
+      },
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/channel/UCFVfB8FCB70Fqd_Dmo8Q08g"
       }
     ]
   },
