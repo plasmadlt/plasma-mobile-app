@@ -8,6 +8,11 @@
       "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
       "wss://mainnet.infura.io/ws/v3/${INFURA_API_KEY}",
       "https://api.mycryptoapi.com/eth",
+      "https://rpc.flashbots.net/",
+      "https://nodes.mewapi.io/rpc/eth",
+      "https://mainnet-nethermind.blockscout.com/",
+      "https://rpc.ankr.com/eth",
+      "https://mainnet.eth.cloud.ava.do/",
       "https://cloudflare-eth.com"
     ],
     "faucets": [],
@@ -281,6 +286,8 @@
     "rpc": [
       "https://bsc-dataseed1.binance.org",
       "https://bsc-dataseed2.binance.org",
+      "https://bscrpc.com",
+      "https://rpc.ankr.com/bsc",
       "https://bsc-dataseed3.binance.org",
       "https://bsc-dataseed4.binance.org",
       "https://bsc-dataseed1.defibit.io",
@@ -535,25 +542,6 @@
     ]
   },
   {
-    "name": "EtherInc",
-    "chain": "ETI",
-    "network": "mainnet",
-    "rpc": [
-      "https://api.einc.io/jsonrpc/mainnet"
-    ],
-    "faucets": [],
-    "nativeCurrency": {
-      "name": "EtherInc Ether",
-      "symbol": "ETI",
-      "decimals": 18
-    },
-    "infoURL": "https://einc.io",
-    "shortName": "eti",
-    "chainId": 101,
-    "networkId": 1,
-    "slip44": 464
-  },
-  {
     "name": "Huobi ECO Chain Mainnet",
     "chain": "Heco",
     "network": "mainnet",
@@ -592,7 +580,9 @@
       "https://matic-mainnet.chainstacklabs.com",
       "https://rpc-mainnet.maticvigil.com",
       "https://rpc-mainnet.matic.quiknode.pro",
-      "https://matic-mainnet-full-rpc.bwarelabs.com"
+      "https://matic-mainnet-full-rpc.bwarelabs.com",
+      "https://poly-rpc.gateway.pokt.network/",
+      "https://rpc.ankr.com/polygon"
     ],
     "faucets": [],
     "nativeCurrency": {
@@ -672,7 +662,9 @@
     "chain": "FTM",
     "network": "mainnet",
     "rpc": [
-      "https://rpc.ftm.tools"
+      "https://rpc.ftm.tools",
+      "https://rpc.ankr.com/fantom",
+      "https://ftm.rpcgator.com/"
     ],
     "faucets": [
       "https://free-online-app.com/faucet-for-eth-evm-chains/"
@@ -1013,6 +1005,8 @@
       "https://arbitrum-mainnet.infura.io/v3/${INFURA_API_KEY}",
       "https://arb-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}",
       "https://arb1.arbitrum.io/rpc",
+      "https://arbitrum.public-rpc.com",
+      "https://rpc.ankr.com/arbitrum",
       "wss://arb1.arbitrum.io/ws"
     ],
     "faucets": [],
@@ -1053,6 +1047,7 @@
     },
     "rpc": [
       "https://forno.celo.org",
+      "https://rpc.ankr.com/celo",
       "wss://forno.celo.org/ws"
     ],
     "faucets": [
@@ -1099,7 +1094,10 @@
     "chain": "AVAX",
     "network": "mainnet",
     "rpc": [
-      "https://api.avax.network/ext/bc/C/rpc"
+      "https://api.avax.network/ext/bc/C/rpc",
+      "https://rpc.ankr.com/avalanche",
+      "https://avax.rpcgator.com/",
+      "https://avalanche.public-rpc.com"
     ],
     "faucets": [
       "https://free-online-app.com/faucet-for-eth-evm-chains/"
@@ -1143,52 +1141,6 @@
       "https://cauldron.pretoriaresearchlab.io/alfajores-faucet"
     ],
     "infoURL": "https://docs.celo.org/"
-  },
-  {
-    "name": "Energi Testnet",
-    "chain": "NRG",
-    "network": "testnet",
-    "rpc": [
-      "https://nodeapi.test.energi.network"
-    ],
-    "faucets": [],
-    "nativeCurrency": {
-      "name": "Energi",
-      "symbol": "NRG",
-      "decimals": 18
-    },
-    "infoURL": "https://www.energi.world/",
-    "shortName": "tnrg",
-    "chainId": 49797,
-    "networkId": 49797,
-    "slip44": 49797
-  },
-  {
-    "name": "Thinkium Testnet Chain 0",
-    "chain": "Thinkium",
-    "network": "testnet",
-    "rpc": [
-      "https://test.thinkiumrpc.net/"
-    ],
-    "faucets": [
-      "https://www.thinkiumdev.net/faucet"
-    ],
-    "nativeCurrency": {
-      "name": "TKM",
-      "symbol": "TKM",
-      "decimals": 18
-    },
-    "infoURL": "https://thinkium.net/",
-    "shortName": "TKM-test0",
-    "chainId": 60000,
-    "networkId": 60000,
-    "explorers": [
-      {
-        "name": "thinkiumscan",
-        "url": "https://test0.thinkiumscan.net/",
-        "standard": "EIP3091"
-      }
-    ]
   },
   {
     "name": "Celo Baklava Testnet",
