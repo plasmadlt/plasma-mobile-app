@@ -1,33 +1,6 @@
 {
     "basic": [
         {
-            "title": "Smart contracts",
-            "shortDescription": "A non-technical introduction to smart contracts",
-            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/assets/dao-2.png",
-            "contentType": "markdown",
-            "content": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/articles/smart_contracts.md"
-        }
-    ],
-    "defi": [
-        {
-            "title": "Decentralized finance (DeFi)",
-            "shortDescription": "An overview of DeFi on Ethereum",
-            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/assets/defi-2.png",
-            "contentType": "markdown",
-            "content": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/articles/defi.md"
-        },
-        {
-            "title": "Non-fungible tokens (NFT)",
-            "shortDescription": "An overview of NFTs on Ethereum",
-            "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/assets/infrastructure_transparent.png",
-            "contentType": "markdown",
-            "content": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/articles/nft.md"
-        }
-    ]
-}
-{
-    "basic": [
-        {
             "title": "What is Ethereum?",
             "shortDescription": "Ethereum prides itself on being  'The world’s computer' which is why it is a base for developers to deploy smart contracts using its Ethereum Virtual Machine (EVM)",
             "coverUrl": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/content/education/assets/What%20is%20Ethereum.png",
