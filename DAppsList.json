@@ -34331,5 +34331,86 @@
       "Ethereum"
     ],
     "twitter": "geniexyz"
+  },
+  {
+    "id": "1548",
+    "name": "Multisender",
+    "address": null,
+    "symbol": null,
+    "url": "https://multisender.app/",
+    "description": "Send ERC20 token or ETH. Batch sender. Bulk Sender. Token Multisender allows you to airdrop tokens in a few transactions in trustless way. Batch sending ERC20, Ethereum tokens.",
+    "chain": "Ethereum",
+    "logo": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/dapp-icons/multisender.png",
+    "audits": "0",
+    "audit_note": null,
+    "category": "Services",
+    "chains": [
+      "Ethereum",
+      "BSC",
+      "Arbitrum",
+      "Polygon",
+      "Celo",
+      "Avalanche",
+      "Fantom",
+      "Gnosis",
+      "Moonriver",
+      "Moonbeam",
+      "Metis",
+      "Cronos",
+      "Heco",
+      "Harmony",
+      "Aurora",
+      "Telos"
+    ],
+    "twitter": null
+  },
+  {
+    "id": "1549",
+    "name": "Bulksender",
+    "address": null,
+    "symbol": null,
+    "url": "https://bulksender.app/",
+    "description": "Send ethers, erc20 tokens and NFTs (erc721 and erc1155) in batch. Supported: all EVM-compatible chains. Batch sender.",
+    "chain": "Ethereum",
+    "logo": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/dapp-icons/bulksender.png",
+    "audits": "0",
+    "audit_note": null,
+    "category": "Services",
+    "chains": [
+      "Ethereum",
+      "BSC",
+      "Arbitrum",
+      "Polygon",
+      "Celo",
+      "Avalanche",
+      "Fantom",
+      "Gnosis",
+      "Moonriver",
+      "Moonbeam",
+      "Metis",
+      "Cronos",
+      "Heco",
+      "Harmony",
+      "Aurora",
+      "Telos"
+    ],
+    "twitter": null
+  },
+  {
+    "id": "1550",
+    "name": "Disperse App",
+    "address": null,
+    "symbol": null,
+    "url": "https://disperse.app/",
+    "description": "Distribute ether or tokens to multiple addresses.",
+    "chain": "Ethereum",
+    "logo": "https://raw.githubusercontent.com/plasmadlt/plasma-mobile-app/main/dapp-icons/disperse.png",
+    "audits": "0",
+    "audit_note": null,
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "twitter": null
   }
 ]
