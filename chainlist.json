@@ -33,7 +33,8 @@
 				"url": "https://etherscan.io",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696"
 	},
 	{
 		"name": "Ethereum Testnet Ropsten",
@@ -57,7 +58,8 @@
 		"networkId": 3,
 		"ens": {
 			"registry": "0x112234455c3a32fd11230c42e7bccd4a84e02010"
-		}
+		},
+		"multicall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696"
 	},
 	{
 		"name": "Ethereum Testnet Rinkeby",
@@ -88,7 +90,8 @@
 				"url": "https://rinkeby.etherscan.io",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696"
 	},
 	{
 		"name": "Ethereum Testnet Görli",
@@ -121,7 +124,8 @@
 				"url": "https://goerli.etherscan.io",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696"
 	},
 	{
 		"name": "Optimistic Ethereum",
@@ -146,7 +150,8 @@
 				"url": "https://optimistic.etherscan.io",
 				"standard": "none"
 			}
-		]
+		],
+		"multicall": "0xeAa6877139d436Dc6d1f75F3aF15B74662617B2C"
 	},
 	{
 		"name": "ShibaChain",
@@ -208,7 +213,7 @@
 		}
 	},
 	{
-		"name": "Telos EVM Mainnet",
+		"name": "Telos",
 		"chain": "TLOS",
 		"network": "mainnet",
 		"rpc": [
@@ -230,7 +235,8 @@
 				"url": "https://teloscan.io",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0xf070654b08595f8F358Ff90170829892F3254C67"
 	},
 	{
 		"name": "Telos EVM Testnet",
@@ -275,10 +281,11 @@
 		"infoURL": "https://kovan-testnet.github.io/website",
 		"shortName": "kov",
 		"chainId": 42,
-		"networkId": 42
+		"networkId": 42,
+		"multicall": "0x2cc8688C5f75E365aaEEb4ea8D6a480405A48D2A"
 	},
 	{
-		"name": "Binance Smart Chain Mainnet",
+		"name": "Binance Smart Chain",
 		"chain": "BSC",
 		"network": "mainnet",
 		"rpc": [
@@ -317,10 +324,11 @@
 				"url": "https://bscscan.com",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0xC50F4c1E81c873B2204D7eFf7069Ffec6Fbe136D"
 	},
 	{
-		"name": "Ontology Mainnet",
+		"name": "Ontology",
 		"chain": "Ontology",
 		"network": "mainnet",
 		"rpc": [
@@ -345,10 +353,11 @@
 				"url": "https://explorer.ont.io/",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0xce6292279bf688173B269Df080E14407470A9E60"
 	},
 	{
-		"name": "EOS Mainnet",
+		"name": "EOS",
 		"chain": "EOS",
 		"network": "mainnet",
 		"rpc": [
@@ -397,10 +406,11 @@
 				"url": "https://www.oklink.com/okexchain-test",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0x04c68A7fB750ca0Ba232105B3b094926a0f77645"
 	},
 	{
-		"name": "OKExChain Mainnet",
+		"name": "OKExChain",
 		"chain": "okexchain",
 		"network": "mainnet",
 		"rpc": [
@@ -424,7 +434,8 @@
 				"url": "https://www.oklink.com/okexchain",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0x6EB187d8197Ac265c945b69f3c3064A6f3831866"
 	},
 	{
 		"name": "Optimistic Ethereum Testnet Kovan",
@@ -474,7 +485,8 @@
 				"url": "https://testnet.bscscan.com",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0x3A09ad1B8535F25b48e6Fa0CFd07dB6B017b31B2"
 	},
 	{
 		"name": "xDAI Chain",
@@ -504,10 +516,11 @@
 				"url": "https://blockscout.com/poa/xdai",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0xb5b692a88BDFc81ca69dcB1d924f59f0413A602a"
 	},
 	{
-		"name": "Huobi ECO Chain Mainnet",
+		"name": "Huobi ECO Chain",
 		"chain": "Heco",
 		"network": "mainnet",
 		"rpc": [
@@ -533,10 +546,11 @@
 				"url": "https://hecoinfo.com",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0x2C55D51804CF5b436BA5AF37bD7b8E5DB70EBf29"
 	},
 	{
-		"name": "Polygon Mainnet",
+		"name": "Polygon",
 		"chain": "Polygon",
 		"network": "mainnet",
 		"rpc": [
@@ -565,10 +579,11 @@
 				"url": "https://polygonscan.com/",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0x275617327c958bD06b5D6b871E7f491D76113dd8"
 	},
 	{
-		"name": "BitTorrent Chain Mainnet",
+		"name": "BitTorrent Chain",
 		"chain": "BTTC",
 		"network": "mainnet",
 		"rpc": [
@@ -590,7 +605,8 @@
 				"url": "https://scan.bittorrentchain.io/",
 				"standard": "none"
 			}
-		]
+		],
+		"multicall": "0x8dFbdEEeF41eefd92A663a34331db867CA6581AE"
 	},
 	{
 		"name": "Arbitrum on xDai",
@@ -622,7 +638,7 @@
 		}
 	},
 	{
-		"name": "Fantom Opera",
+		"name": "Fantom",
 		"chain": "FTM",
 		"network": "mainnet",
 		"rpc": [
@@ -650,7 +666,8 @@
 				"icon": "ftmscan",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0xD98e3dBE5950Ca8Ce5a4b59630a5652110403E5c"
 	},
 	{
 		"name": "Huobi ECO Chain Testnet",
@@ -705,7 +722,8 @@
 					"url": "https://gateway.boba.network"
 				}
 			]
-		}
+		},
+		"multicall": "0xfb91c019D9F12A0f9c23B4762fa64A34F8daDb4A"
 	},
 	{
 		"name": "Cronos Testnet",
@@ -788,7 +806,7 @@
 		}
 	},
 	{
-		"name": "Clover Mainnet",
+		"name": "Clover",
 		"chain": "Clover",
 		"network": "clover mainnet",
 		"rpc": [
@@ -833,7 +851,7 @@
 		]
 	},
 	{
-		"name": "Metis Andromeda Mainnet",
+		"name": "Metis Andromeda",
 		"chain": "ETH",
 		"network": "mainnet",
 		"rpc": [
@@ -864,7 +882,8 @@
 					"url": "https://bridge.metis.io"
 				}
 			]
-		}
+		},
+		"multicall": "0xc39aBB6c4451089dE48Cffb013c39d3110530e5C"
 	},
 	{
 		"name": "Moonriver",
@@ -892,7 +911,8 @@
 				"url": "https://blockscout.moonriver.moonbeam.network",
 				"standard": "none"
 			}
-		]
+		],
+		"multicall": "0x537004440ffFE1D4AE9F009031Fc2b0385FCA9F1"
 	},
 	{
 		"name": "Fantom Testnet",
@@ -994,7 +1014,8 @@
 					"url": "https://bridge.arbitrum.io"
 				}
 			]
-		}
+		},
+		"multicall": "0x813715eF627B01f4931d8C6F8D2459F26E19137E"
 	},
 	{
 		"name": "Celo Mainnet",
@@ -1023,7 +1044,8 @@
 				"url": "https://explorer.celo.org",
 				"standard": "none"
 			}
-		]
+		],
+		"multicall": "0xb8d0d2C1391eeB350d2Cd39EfABBaaEC297368D9"
 	},
 	{
 		"name": "Avalanche Fuji Testnet",
@@ -1053,7 +1075,7 @@
 		]
 	},
 	{
-		"name": "Avalanche Mainnet",
+		"name": "Avalanche",
 		"chain": "AVAX",
 		"network": "mainnet",
 		"rpc": [
@@ -1080,7 +1102,8 @@
 				"url": "https://snowtrace.io/",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0xed386Fe855C1EFf2f843B910923Dd8846E45C5A4"
 	},
 	{
 		"name": "Celo Alfajores Testnet",
@@ -1152,7 +1175,8 @@
 				"url": "https://mumbai.polygonscan.com/",
 				"standard": "EIP3091"
 			}
-		]
+		],
+		"multicall": "0x08411ADd0b5AA8ee47563b146743C13b3556c9Cc"
 	},
 	{
 		"name": "Arbitrum Testnet Rinkeby",
@@ -1210,7 +1234,7 @@
 		"networkId": 245022926
 	},
 	{
-		"name": "Neon EVM MainNet",
+		"name": "Neon EVM",
 		"chain": "Solana",
 		"network": "mainnet",
 		"rpc": [
