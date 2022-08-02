@@ -1268,7 +1268,7 @@
 		"shortName": "neonevm-testnet",
 		"chainId": 245022940,
 		"networkId": 245022940
-	}
+	},
 	{
     		"name": "Tomochain Mainnet",
     		"chain": "TOMO",
