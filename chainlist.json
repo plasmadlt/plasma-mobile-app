@@ -1269,4 +1269,29 @@
 		"chainId": 245022940,
 		"networkId": 245022940
 	}
+	{
+    		"name": "Tomochain Mainnet",
+    		"chain": "TOMO",
+    		"network": "mainnet",
+    		"rpc": [
+      			"https://rpc.tomochain.com/"
+    		],
+		"faucets": [],
+    		"nativeCurrency": {
+      			"name": "TomoChain",
+      			"symbol": "TOMO",
+      			"decimals": 18
+    		},
+    		"infoURL": "https://tomochain.com",
+    		"shortName": "tomo",
+    		"chainId": 88,
+    		"networkId": 88,
+    		"explorers": [
+      			{
+        			"name": "tomoscan",
+        			"url": "https://scan.tomochain.com",
+        			"standard": "EIP3091"
+      			}
+    		]
+  	}
 ]
