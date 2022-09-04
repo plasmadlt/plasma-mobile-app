@@ -1812,7 +1812,7 @@
     "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
     "symbol": "LDO",
     "url": "https://stake.lido.fi/",
-    "description": "liquidity for staked assets. Daily rewards, no lock ups. Available for Ethereum, Solana, Terra & Kusama.",
+    "description": "Liquidity for staked assets. Daily rewards, no lock ups. Available for Ethereum, Solana, Terra & Kusama.",
     "chain": "Ethereum",
     "logo": "https://icons.llama.fi/lido.png",
     "audits": "2",
