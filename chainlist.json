@@ -37,6 +37,37 @@
 		"multicall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696"
 	},
 	{
+		"name": "Ethereum (POW)",
+		"chain": "ETHW",
+		"network": "mainnet",
+		"icon": "ethereum",
+		"rpc": [
+			"https://mainnet.ethereumpow.org"
+		],
+		"faucets": [],
+		"nativeCurrency": {
+			"name": "Ether",
+			"symbol": "ETHW",
+			"decimals": 18
+		},
+		"infoURL": "https://Ethereumpow.org",
+		"shortName": "ethw",
+		"chainId": 10001,
+		"networkId": 10001,
+		"slip44": 60,
+		"ens": {
+			"registry": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e"
+		},
+		"explorers": [
+			{
+				"name": "etherscan",
+				"url": "mainnet.ethwscan.com",
+				"standard": "EIP3091"
+			}
+		],
+		"multicall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696"
+	},
+	{
 		"name": "Ethereum Testnet Ropsten",
 		"chain": "ETH",
 		"network": "ropsten",
