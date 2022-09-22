@@ -2843,11 +2843,11 @@
   },
   {
     "id": "229",
-    "name": "Gnosis Safe",
+    "name": "Safe",
     "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
     "symbol": "GNO",
     "url": "https://gnosis-safe.io/app/welcome",
-    "description": "The Gnosis Safe Multisig is the most trusted platform to store digital assets on Ethereum for companies, hodlers, funds, developers, DAOs and investors.",
+    "description": "The Safe Multisig is the most trusted platform to store digital assets on Ethereum for companies, hodlers, funds, developers, DAOs and investors.",
     "chain": "Ethereum",
     "logo": "https://icons.llama.fi/gnosis.jpg",
     "audits": "2",
