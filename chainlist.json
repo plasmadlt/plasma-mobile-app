@@ -162,6 +162,7 @@
 		"chain": "ETH",
 		"network": "mainnet",
 		"rpc": [
+			"https://optimism-mainnet.infura.io/v3/${INFURA_API_KEY}",
 			"https://mainnet.optimism.io/"
 		],
 		"faucets": [],
@@ -584,6 +585,7 @@
 		"chain": "Polygon",
 		"network": "mainnet",
 		"rpc": [
+			"https://polygon-mainnet.infura.io/v3/${INFURA_API_KEY}",
 			"https://polygon-rpc.com/",
 			"https://matic-mainnet.chainstacklabs.com",
 			"https://rpc-mainnet.maticvigil.com",
@@ -1060,6 +1062,7 @@
 			"decimals": 18
 		},
 		"rpc": [
+			"https://celo-mainnet.infura.io/v3/${INFURA_API_KEY}",
 			"https://forno.celo.org",
 			"https://rpc.ankr.com/celo",
 			"wss://forno.celo.org/ws"
@@ -1109,6 +1112,7 @@
 		"chain": "AVAX",
 		"network": "mainnet",
 		"rpc": [
+			"https://avalanche-mainnet.infura.io/v3/${INFURA_API_KEY}",
 			"https://api.avax.network/ext/bc/C/rpc",
 			"https://rpc.ankr.com/avalanche",
 			"https://avalanche.public-rpc.com"
@@ -1300,28 +1304,28 @@
 		"networkId": 245022940
 	},
 	{
-    		"name": "Tomochain Mainnet",
-    		"chain": "TOMO",
-    		"network": "mainnet",
-    		"rpc": [
-      			"https://rpc.tomochain.com/"
-    		],
+		"name": "Tomochain Mainnet",
+		"chain": "TOMO",
+		"network": "mainnet",
+		"rpc": [
+			"https://rpc.tomochain.com/"
+		],
 		"faucets": [],
-    		"nativeCurrency": {
-      			"name": "TomoChain",
-      			"symbol": "TOMO",
-      			"decimals": 18
-    		},
-    		"infoURL": "https://tomochain.com",
-    		"shortName": "tomo",
-    		"chainId": 88,
-    		"networkId": 88,
-    		"explorers": [
-      			{
-        			"name": "tomoscan",
-        			"url": "https://scan.tomochain.com",
-        			"standard": "EIP3091"
-      			}
-    		]
-  	}
+		"nativeCurrency": {
+			"name": "TomoChain",
+			"symbol": "TOMO",
+			"decimals": 18
+		},
+		"infoURL": "https://tomochain.com",
+		"shortName": "tomo",
+		"chainId": 88,
+		"networkId": 88,
+		"explorers": [
+			{
+				"name": "tomoscan",
+				"url": "https://scan.tomochain.com",
+				"standard": "EIP3091"
+			}
+		]
+	}
 ]
