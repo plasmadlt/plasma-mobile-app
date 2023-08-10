@@ -1327,5 +1327,58 @@
 				"standard": "EIP3091"
 			}
 		]
+	},
+	{
+		"name": "Base",
+		"chain": "ETH",
+		"network": "mainnet",
+		"rpc": [
+			"https://developer-access-mainnet.base.org",
+			"https://base.meowrpc.com"
+		],
+		"faucets": [],
+		"nativeCurrency": {
+			"name": "Ether",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"infoURL": "https://base.org",
+		"shortName": "base",
+		"chainId": 8453,
+		"networkId": 8453,
+		"explorers": [
+			{
+				"name": "basescan",
+				"url": "https://basescan.org",
+				"standard": "none"
+			}
+		],
+		"multicall": "0xcA11bde05977b3631167028862bE2a173976CA11"
+	},
+	{
+		"name": "Base Goerli",
+		"chain": "ETH",
+		"network": "testnet",
+		"rpc": [
+			"https://goerli.base.org"
+		],
+		"faucets": [],
+		"nativeCurrency": {
+			"name": "Ether",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"infoURL": "https://base.org",
+		"shortName": "base-test",
+		"chainId": 84531,
+		"networkId": 84531,
+		"explorers": [
+			{
+				"name": "basescan",
+				"url": "https://goerli.basescan.org",
+				"standard": "none"
+			}
+		],
+		"multicall": "0xcA11bde05977b3631167028862bE2a173976CA11"
 	}
 ]
